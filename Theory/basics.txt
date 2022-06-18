@@ -17,3 +17,53 @@
    We need type-conversion,because in python when we give input its always in string format.
    Be it a number,float, or boolean everthing will be in string format.
 
+~> Arithmetic Operators:
+   Addition-> '+'
+   Subtraction-> '-'
+   Multiple-> '*'
+   Divide-> '/'
+   Floor Division-> '//' <- to remove the decimal and only give integer
+   Modulo-> '%' <- gives remainder
+   Power-> '**' <- Ex: 5**2=> 5 to the power 2 => 25
+
+
+Operator presedence:- operation according to the preference of the Operator
+----------------
+Presedence chart
+----------------
+
+   Operators	                          Meaning
+______________________________________________________________________________________
+  ()	                                Parentheses
+  **	                                Exponent
+  +x, -x, ~x	                       Unary plus, Unary minus, Bitwise NOT
+*, /, //, %                           Multiplication, Division, Floor division, Modulus
++, -	                                Addition, Subtraction
+<<, >>	                             Bitwise shift operators
+   &                                  Bitwise AND
+   ^	                                Bitwise XOR
+   |	                                Bitwise OR
+ ==, !=, >, >=,                       Comparisons, Identity, Membership operators
+<, <=, is, is not, in, not in	
+    not	                             Logical NOT
+    and	                             Logical AND
+    or	                             Logical OR
+
+
+~> Comparison Operators:
+   Greater than >
+   Less than <
+   Equal == 
+   Not Equal !=
+
+~> Logical Operators:
+   or => logical OR 
+   and => logical AND
+   not => logical NOT
+
+~> Functions:
+  (1) in-built
+  (2) module function
+  (3) user-defined function
+
+
