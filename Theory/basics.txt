@@ -1,0 +1,19 @@
+*** python is case sensitive language***
+
+~>Data-types in python:
+(1)Number-->integer
+(2)Number-->float
+(3)String
+(4)Boolean-->True/False
+
+
+~> Taking user input from user:
+   We have to use 'input' function to take user input and should store the output in some variable to show on screen 
+    Ex: input("What is your name?")
+         print(name)
+
+
+~> Type conversion:
+   We need type-conversion,because in python when we give input its always in string format.
+   Be it a number,float, or boolean everthing will be in string format.
+
